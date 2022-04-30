@@ -1,4 +1,4 @@
-# Usar vault para generar certificados TLS
+# Generar certificados TLS
 
 https://www.vaultproject.io/docs/secrets/pki
 

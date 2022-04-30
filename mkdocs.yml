@@ -1,0 +1,12 @@
+docs_dir: docs
+site_name: laboratorios
+site_url: https://japidei.github.io/labos/
+repo_url: https://github.com/japidei/labos
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  language: es
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
